@@ -35,6 +35,6 @@ This is a Python 2 implementation of a Least Recently Used Cache.
 
 Run the unit tests for the LRUCache
 
-    ./lru_test
+    ./lru_test.py
 
 
